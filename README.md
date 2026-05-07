@@ -22,6 +22,6 @@ Once opened, you should be able to be build and run the code out of the box, wit
 ![Usage Image](Images/Usage.png)
 
 # Contributors
-Jared Kagie: jjk353@nau.edu
-Kyle Radzvin: kyr66@nau.edu
-Contribution Guidelines: We each tried to split the work into equal chunks to work on, sending our work to the other so they can build onto it from there.
+- Jared Kagie: jjk353@nau.edu
+- Kyle Radzvin: kyr66@nau.edu
+- Contribution Guidelines: We each tried to split the work into equal chunks to work on, sending our work to the other so they can build onto it from there.
